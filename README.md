@@ -1,4 +1,4 @@
-# GerenciadorDeTarefas
+# Gerenciador De Tarefas/Atividades com Angular 8, Angular CLI, bootstrap 4, CSS3 e HTML5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
